@@ -1,0 +1,41 @@
+body{
+    font-family: 'DotGothic16', sans-serif;
+    background: #3192DE; 
+}
+.header_div
+{
+    background: #C966A2;
+    color: #7B3BC7;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div
+{
+    background: #82DA34;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid wheat;
+}
+.main_div label
+{
+    background:sienna;
+    width: 310px;
+    padding: 10px;
+    margin-bottom:0px;
+    box-shadow: 5px 5px 18px azure;
+}
+#camera
+{
+    border: 2px solid wheat;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px azure;
+}
+.main_div button
+{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px brown;
+    border: 2px solid;
+}
