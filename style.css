@@ -25,7 +25,7 @@ body{
     margin-bottom:0px;
     box-shadow: 5px 5px 18px azure;
 }
-#camera
+#camera, #result
 {
     border: 2px solid wheat;
     width: 310px;
@@ -38,4 +38,29 @@ body{
     font-size: 16px;
     box-shadow: 5px 5px 18px brown;
     border: 2px solid;
+}
+.footer_div
+{
+    margin-bottom: 50px;
+}
+.footer_div h4
+{
+    background: #4EB6C6;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px #9E1111;
+}
+.footer_div img
+{
+    width: 70px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: #75C270;
+    bottom: 0;
+    width: 100%;
+    background-color: #5647B7;
+    line-height: 3;
+    text-align:center;
 }
